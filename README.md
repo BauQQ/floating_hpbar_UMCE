@@ -16,3 +16,7 @@ A simple floating healthbar for mobs, contained in a prefab to add to the mobs.
 - Find your mobs/npc's and edit their prefab. Add the included prefab to the mob/npc and link the correct elements up to the script.
 
 ![](http://i.epvpimg.com/ZfcXcab.png)
+
+
+### Result
+![](http://i.epvpimg.com/3hljfab.png)
